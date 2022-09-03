@@ -1,21 +1,21 @@
 {
   "en-US": {
-    "bundle_header": "Featured Bundle",
-    "daily_shop_header": "Daily Store",
-    "night_market_header": "Night Market",
-    "wallet_header": "Your Wallet",
+    "bundle_header": "Paquete Destacado",
+    "daily_shop_header": "Tienda Diaria",
+    "night_market_header": "Mercado Nocturno",
+    "wallet_header": "Tu Billetera",
     "timer": {
-      "d_1": "day",
-      "d_2": "days",
-      "h_1": "hour",
-      "h_2": "hours",
-      "m_1": "minute",
-      "m_2": "minutes",
-      "s_1": "second",
-      "s_2": "seconds",
-      "rem": "remaining"
+      "d_1": "día",
+      "d_2": "días",
+      "h_1": "hora",
+      "h_2": "horas",
+      "m_1": "minuto",
+      "m_2": "minnutos",
+      "s_1": "segundo",
+      "s_2": "segundos",
+      "rem": "restantes"
     },
-    "overlay_levels": "Levels",
-    "add_to_wishlist": "Add to wishlist"
+    "overlay_levels": "Niveles",
+    "add_to_wishlist": "Agregar a la Lista de Deseos"
   }
 }

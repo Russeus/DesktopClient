@@ -280,5 +280,146 @@
         "grp_2": "UI ELEMENTE"
       }
     }
+  },
+    "es-CL": {
+    "nav": {
+      "el_1": "General",
+      "el_2": "Rich Presences",
+      "el_3": "Gestión Cuentas de Riot",
+      "el_4": "Notas del Parche",
+      "el_5": "Otros"
+    },
+    "pg_1": {
+      "grp_1": {
+        "name": "COMPORTAMIENTO DE LA APP",
+        "setting_1": {
+          "name": "Abrir VALTracker",
+          "desc": "Abre VALTracker automáticamente al iniciar tu PC."
+        },
+        "setting_2": {
+          "name": "Abrir VALTracker minimizado",
+          "desc": "Abre VALTracker minimizado al iniciar automáticamente."
+        }
+      },
+      "grp_2": {
+        "name": "IDIOMA",
+        "setting_1": {
+          "name": "Cambiar Idioma",
+          "desc": "Cambia el idioma de VALTracker. Esto abrirá una ventana emergente.",
+          "button_text": "Cambiar Idioma"
+        }
+      },
+      "grp_3": {
+        "name": "LISTA DE DESEOS",
+        "setting_1": {
+          "name": "Skin Wishlist Notifications",
+          "desc": "Enable or disable Skin Wishlist notifications.",
+          "desc2": "Tip: Open VALTracker Minimized so that you don't get disturbed by the window popping up."
+        }
+      },
+      "grp_4": {
+        "name": "BOTÓN CERRAR VENTANA",
+        "setting_1": {
+          "name": "Minimizar a la Bandeja",
+          "desc": "Al cerrar la ventana de la aplicación se minimizará a la bandeja del sistema."
+        }
+      },
+      "grp_5": {
+        "name": "RENDIMIENTO",
+        "setting_1": {
+          "name": "Aceleración de Hardware",
+          "desc": "Activa o desactiva la Aceleración de Hardware. Requiere reiniciar la app para aplicar cambios."
+        }
+      },
+      "grp_6": {
+        "name": "COLOR DEL TEMA",
+        "setting_1": {
+          "name": "Tema de Legado",
+          "desc": "Activa el Color del Tema de Legado de la app."
+        }
+      }
+    },
+    "pg_2": {
+      "grp_1": {
+        "name": "RICH PRESENCE DE LA APP",
+        "setting_1": {
+          "name": "Rich Presence de VALTracker",
+          "desc": "¡Muestra a tus amigos que estás usando VALTracker con un Rich Presence personalizado!"
+        },
+        "setting_2": {
+          "name": "Oculta Rich Presence al estar minimizado",
+          "desc": "Oculta el Rich PresenceHide de VALTracker cuando la app está minimizada."
+        }
+      },
+      "grp_2": {
+        "name": "Rich Presence de VALORANT",
+        "setting_1": {
+          "name": "VALORANT Game Presence",
+          "desc": "¡Cambia tu Estado de Discord Status a un Rich Presence sobre tu partida actual!"
+        },
+        "setting_2": {
+          "name": "Mostrar Tipo de Partida",
+          "desc": "¡Decide si quieres mostrar el modo que estás jugando actualmente!",
+          "desc2": "Desactivar esta opción deshabilitará el poder mostrar tu rango cuando juegues una partida competitiva."
+        },
+        "setting_3": {
+          "name": "Mostrar Rango en vez del Agente",
+          "desc": "¡Cambia la imágen pequeña a tu rango en vez del agente si juegas competitivo!"
+        },
+        "setting_4": {
+          "name": "Mostrar Tiempo",
+          "desc": "Enciende o apaga el cronómetro en el Rich Presence."
+        },
+        "setting_5": {
+          "name": "Mostrar Puntuacióin",
+          "desc": "Activa o desactiva la puntuación en el Rich Presence."
+        }
+      }
+    },
+    "pg_3": {
+      "grp_1": {
+        "name": "GESTIÓN DE CUENTAS",
+        "setting_1": {
+          "name": "Agregar una Cuenta",
+          "desc": "Abre una ventana de login para agregar una nueva Cuenta de Riot.",
+          "button_text": "Agregar nueva Cuenta"
+        },
+        "setting_2": {
+          "name": "Quitar una Cuenta",
+          "desc": "Quita una Cuenta de Riot de VALTracker.",
+          "button_text": "Quitar Cuenta"
+        }
+      }
+    },
+    "pg_4": {},
+    "pg_5": {
+      "grp_1": {
+        "name": "PERFILES DE CONFIGURACIÓN",
+        "setting_1": {
+          "name": "Importar Opciones",
+          "desc": "Importa un perfil de configuración. Puedes copiar tu código abajo.",
+          "extra_button_text": "Aplicar"
+        },
+        "setting_2": {
+          "name": "Exportar Opciones",
+          "desc": "Copia tu código de compartir opciones al portapapeles.",
+          "button_text": "Copiar al portapapeles",
+          "button_text_2": "¡Hecho!"
+        }
+      },
+      "grp_2": {
+        "name": "ZONA DE PELIGRO",
+        "setting_1": {
+          "name": "Reinicia VALTracker",
+          "desc": "Reinicia la App. Esto incluye datos de cuentas, opciones, y todo el resto de datos.",
+          "button_text": "Reiniciar VALTracker"
+        }
+      },
+      "about": {
+        "name": "ACERCA DE",
+        "grp_1": "APIs USADAS",
+        "grp_2": "ELEMENTOS DE UI"
+      }
+    }
   }
 }

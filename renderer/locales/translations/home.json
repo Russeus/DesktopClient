@@ -1,16 +1,16 @@
 {
   "en-US": {
     "component_err": {
-      "err_text": "Error while loading Component.",
-      "button_text": "Reload"   
+      "err_text": "Error al cargar los Componentes.",
+      "button_text": "Recargar"   
     },
     "top_l": {
-      "bundle_header": "Featured Bundle",
+      "bundle_header": "Paquete Destacado",
       "contracts": {
-        "level_text": "Level",
-        "xp_text": "TO GO",
-        "battle_pass_header": "Battle Pass Progress",
-        "agent_contract_header": "Agent Contract Progress"
+        "level_text": "Nivel",
+        "xp_text": "FALTANTES",
+        "battle_pass_header": "Progreso Pase de Batalla",
+        "agent_contract_header": "Progreso Contrato de Agente"
       }
     },
     "top_r": {
@@ -19,80 +19,80 @@
         "h_2": "Damage/Round of last 8 Matches",
         "h_3": "KD of last 8 Matches"
       },
-      "latest_text": "Latest"
+      "latest_text": "Última"
     },
     "bot_l": {
       "errors": {
-        "no_matches_found": "No matches found.",
-        "err_while_fetching": "Something went wrong while fetching new matches. Try again!"
+        "no_matches_found": "No se encontraron partidas.",
+        "err_while_fetching": "Algo salió mal al buscar nuevas partidas. ¡Intenta nuevamente!"
       },
-      "loading_tooltip": "Checking for new matches...",
+      "loading_tooltip": "Buscando nuevas partidas...",
       "date_format": "MMMM Do",
       "gamemodes": {
-        "newmap": "Unrated",
-        "competitive": "Competitive",
-        "unrated": "Unrated",
+        "newmap": "Normal",
+        "competitive": "Competitivo",
+        "unrated": "Normal",
         "spikerush": "Spike Rush",
         "deathmatch": "Deathmatch",
-        "ggteam": "Escalation",
-        "onefa": "Replication",
-        "snowball": "Snowball Fight", 
-        "custom": "Custom",
-        "": "Custom"
+        "ggteam": "Carrera de Armas",
+        "onefa": "Réplica",
+        "snowball": "Pelea de Bolas de Nieve", 
+        "custom": "Personalizada",
+        "": "Personalizada"
       },
       "match_outcomes": {
-        "VICTORY": "VICTORY",
-        "DEFEAT": "DEFEAT"
+        "VICTORY": "VICTORIA",
+        "DEFEAT": "DERROTA"
       },
       "bottom_text": {
-        "loaded_matches_count": "{{ num1 }} out of {{ num2 }} Matches shown",
-        "load_more": "Load more Matches"
+        "loaded_matches_count": "{{ num1 }} de {{ num2 }} Partidas mostradas",
+        "load_more": "Cargar más Partidas"
       },
       "match_pos": {
-        "Match-MVP": "Match MVP",
-        "Team-MVP": "Team MVP",
-        "2nd": "2nd",
-        "3rd": "3rd",
-        "4th": "4th",
-        "5th": "5th",
-        "6th": "6th",
-        "7th": "7th",
-        "8th": "8th",
-        "9th": "9th",
-        "10th": "10th"
+        "Match-MVP": "MVP Partida",
+        "Team-MVP": "MVP Equipo",
+        "2nd": "2do",
+        "3rd": "3ro",
+        "4th": "4to",
+        "5th": "5to",
+        "6th": "6to",
+        "7th": "7mo",
+        "8th": "8vo",
+        "9th": "9no",
+        "10th": "10mo"
       }
     },
     "bot_r": {
       "stats": {
-        "header": "Stats of last {{ num1 }} Matches",
+        "header": "Estadísticas de las últimas {{ num1 }} Partidas",
         "stat_1": "Avg Kills/Match",
         "stat_2": "Avg Kills/Round",
         "stat_3": "Win%",
         "stat_4": "Avg Headshot%"
       },
       "best_map": {
-        "header": "Best Map",
+        "header": "Mejor Mapa",
         "stats": {
           "stat_1": "Win%",
           "stat_2": "Avg KD"
         }
       },
       "best_agent": {
-        "header": "Best Agent",
-        "stat_1": "Avg Score/Match",
+        "header": "Mejor Agente",
+        "stat_1": "Avg Score/Partida",
         "stat_2": "Avg KDA",
-        "stat_3": "Avg Kills/Round",
-        "stat_4": "Avg Kills/Match"
+        "stat_3": "Avg Kills/Ronda",
+        "stat_4": "Avg Kills/Partida"
       },
       "match_filter": {
-        "header": "Change Match Filter",
-        "fl_1": "Unrated",
-        "fl_2": "Competitive",
+        "header": "Cambiar Filtro de Partida",
+        "fl_1": "Normal",
+        "fl_2": "Competitivo",
         "fl_3": "Deathmatch",
         "fl_4": "Spike Rush",
-        "fl_5": "Replication",
-        "fl_6": "Escalation",
-        "fl_7": "Custom"
+        "fl_5": "Réplica",
+        "fl_6": "Carrera de Armas",
+        "fl_7": "Personalizada"
       }
     }
   }

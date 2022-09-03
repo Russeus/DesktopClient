@@ -1,26 +1,29 @@
 {
   "en-US": {
-    "el_1": "Search for a player",
-    "el_2": "Home",
-    "el_3": "Shop",
-    "el_4": "Inventory",
-    "el_5": "Favorite Matches",
-    "el_6": "Your Wishlist"
+    "search_placeholder": "Search for a player",
+	"history_close": "Close History",
+    "home": "Home",
+    "shop": "Shop",
+    "inventory": "Inventory",
+    "fav_matches": "Favorite Matches",
+    "wishlist": "Your Wishlist"
   },
   "de-DE": {
-    "el_1": "Suche nach einem Spieler",
-    "el_2": "Home",
-    "el_3": "Shop",
-    "el_4": "Inventar",
-    "el_5": "Favorisierte Matches",
-    "el_6": "Deine Wunschliste"
+    "search_placeholder": "Suche nach einem Spieler",
+	"history_close": "",
+    "home": "Home",
+    "shop": "Shop",
+    "inventory": "Inventar",
+    "fav_matches": "Favorisierte Matches",
+    "wishlist": "Deine Wunschliste"
   },
   "es-CL": {
-    "el_1": "Buscar a un Jugador",
-    "el_2": "Inicio",
-    "el_3": "Tienda",
-    "el_4": "Colección",
-    "el_5": "Partidas Favoritas",
-    "el_6": "Tu Lista de Deseos"
+    "search_placeholder": "Buscar a un Jugador",
+	"history_close": "Cerrar Historial",
+    "home": "Inicio",
+    "shop": "Tienda",
+    "inventory": "Colección",
+    "fav_matches": "Partidas Favoritas",
+    "wishlist": "Tu Lista de Deseos"
   }  
 }
