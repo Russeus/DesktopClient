@@ -138,6 +138,32 @@
         "grp_1": "USED APIs",
         "grp_2": "UI ELEMENTS"
       }
+    },
+    "modals": {
+      "change_lang": {
+        "header": "Select Language",
+        "desc": "Select a language and click the button below. The app will restart to apply changes.",
+        "button_1": "Confirm",
+        "button_2": "Cancel"
+      },
+      "reset_app": {
+        "header": "Reset VALTracker?",
+        "desc": "This will reset all data saved by the app, including account data, shop data, favourite matches and settings. This action cannot be undone.",
+        "button_1": "Confirm",
+        "button_2": "Cancel"
+      },
+      "apply_settings_profile": {
+        "header": "Apply Settings Profile?",
+        "desc": "This will restart the app and possibly change all of your settigns. If you want to back up your current settings, close this popup and copy your settings share code.",
+        "button_1": "Confirm",
+        "button_2": "Cancel"
+      },
+      "remove_riot_acc": {
+        "header": "Select Account to remove",
+        "desc": "Select the account you wish to remove from VALTracker.",
+        "button_1": "Confirm",
+        "button_2": "Cancel"
+      }
     }
   },
   "de-DE": {
@@ -281,7 +307,7 @@
       }
     }
   },
-    "es-CL": {
+  "es-CL": {
     "nav": {
       "el_1": "General",
       "el_2": "Rich Presences",
